@@ -2,8 +2,8 @@
 title: "Hướng Dẫn Đăng Ký 88AA Chi Tiết 2025 - Nhận Thưởng 88K"
 date: 2025-06-09T00:15:00+07:00
 categories: ["huong-dan"]
-tags: ["dang-ky-88aa", "tai-khoan-88aa", "88aa-moi-nhat", "khuyen-mai-88aa", "huong-dan-88aa"]
-tag_display: ["đăng ký 88aa", "tài khoản 88aa", "88aa mới nhất", "khuyến mãi 88aa", "hướng dẫn 88aa"]
+tags: ["huong-dan-dang-ky-88aa", "tai-khoan-88aa", "88aa-moi-nhat", "khuyen-mai-88aa", "huong-dan-88aa"]
+tag_display: ["hướng dẫn đăng ký 88aa", "tài khoản 88aa", "88aa mới nhất", "khuyến mãi 88aa", "hướng dẫn 88aa"]
 image: "/images/huong-dan-dang-ky-88aa.webp"
 description: "Hướng dẫn chi tiết các bước đăng ký tài khoản 88AA năm 2025 nhanh chóng, an toàn và nhận ngay khuyến mãi chào mừng 88K cho thành viên mới. Quy trình đơn giản cho người mới bắt đầu."
 author: "Chuyên Gia 88AA"
