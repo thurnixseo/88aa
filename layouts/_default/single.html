@@ -177,7 +177,7 @@
             {{ $related := .Site.RegularPages.Related . | first 3 }}
 {{ if $related }}
 <div class="mt-12">
-    <h3 class="text-2xl font-bold text-white mb-8">📚 Related Post</h3>
+    <h3 class="text-2xl font-bold text-white mb-8">📚 Bài viết liên quan</h3>
     <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
         {{ range $related }}
         <a href="{{ .Permalink }}" class="group bg-gray-800/80 backdrop-blur-sm rounded-2xl overflow-hidden border border-gray-700/50 hover:border-game-accent transition-all transform hover:-translate-y-2">
