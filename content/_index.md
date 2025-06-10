@@ -5,6 +5,7 @@ type: "homepage"
 schemas:
   - "organization"
   - "local-business" 
+  - "mobileapp"
 ---
 
 {{< hero-banner 

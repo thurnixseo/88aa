@@ -2,8 +2,8 @@
 title: "Hướng Dẫn Nạp Tiền 88AA Chi Tiết và An Toàn Nhất 2025"
 date: 2025-06-09T01:50:00+07:00
 categories: ["huong-dan", "nap-tien"]
-tags: ["nap-tien-88aa", "gui-tien-88aa", "huong-dan-nap-tien", "khuyen-mai-88aa"]
-tag_display: ["nạp tiền 88aa", "gửi tiền 88aa", "hướng dẫn nạp tiền", "khuyến mãi 88aa"]
+tags: ["nap-tien-88aa", "gui-tien-88aa", "huong-dan-nap-tien", "khuyen-mai-88aa", "huong-dan-88aa"]
+tag_display: ["nạp tiền 88aa", "gửi tiền 88aa", "hướng dẫn nạp tiền", "khuyến mãi 88aa", "hướng dẫn 88aa"]
 image: "/images/huong-dan-nap-tien-88aa.webp"
 description: "Hướng dẫn các bước nạp tiền vào tài khoản 88AA qua nhiều phương thức an toàn như chuyển khoản ngân hàng, ví điện tử. Cập nhật mới nhất 2025."
 author: "Chuyên Gia 88AA"

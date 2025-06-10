@@ -2,8 +2,8 @@
 title: "Hướng Dẫn Tải App 88AA Cho Android & iOS Mới Nhất 2025"
 date: 2025-06-09T03:54:00+07:00
 categories: ["huong-dan"]
-tags: ["tai-app-88aa", "88aa-mobile", "app-88aa-android", "app-88aa-ios", "huong-dan"]
-tag_display: ["tải app 88aa", "88aa mobile", "app 88aa android", "app 88aa ios", "hướng dẫn"]
+tags: ["tai-app-88aa", "88aa-mobile", "app-88aa-android", "app-88aa-ios", "huong-dan", "huong-dan-88aa"]
+tag_display: ["tải app 88aa", "88aa mobile", "app 88aa android", "app 88aa ios", "hướng dẫn", "hướng dẫn 88aa"]
 image: "/images/huong-dan-tai-app-88aa.webp"
 description: "Hướng dẫn chi tiết cách tải và cài đặt app 88AA trên điện thoại Android (APK) và iOS. Trải nghiệm game mượt mà, nhận thông báo khuyến mãi tức thì."
 author: "Chuyên Gia 88AA"
