@@ -1,6 +1,6 @@
 ---
 title: "Giải Mã Sức Hút Của Cổng Game 88AA: Vì Sao Tân Binh Này Lại Gây Sốt?"
-date: 2025-06-11
+date: "2025-06-10"
 categories: ["blog", "thuong-hieu"]
 tags: ["88aa-hot", "suc-hut-88aa", "danh-gia-88aa", "tan-binh-88aa", "ly-do-choi-88aa"]
 tag_display: ["88aa hot", "sức hút 88aa", "đánh giá 88aa", "tân binh 88aa", "lý do chơi 88aa"]

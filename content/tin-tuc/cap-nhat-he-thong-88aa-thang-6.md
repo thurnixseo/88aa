@@ -1,6 +1,6 @@
 ---
 title: "🚀 88AA Cập Nhật Hệ Thống Mới - Tăng Tốc Độ Giao Dịch Lên 300%!"
-date: 2025-06-07T14:20:00+07:00
+date: "2025-06-10"
 categories: ["tin-tuc"]
 tag_display: ["cập nhật 88aa", "hệ thống 88aa", "nạp rút 88aa", "công nghệ 88aa"]
 tags: ["cap-nhat-88aa", "he-thong-88aa", "nap-rut-88aa", "cong-nghe-88aa"]
