@@ -1,6 +1,6 @@
 ---
 title: "Hướng Dẫn Đăng Nhập 88AA Nhanh Chóng và An Toàn 2025"
-date: 2025-06-09T01:37:00+07:00
+date: 2025-06-10T09:37:00+07:00
 categories: ["huong-dan"]
 tags: ["huong-dan-dang-nhap-88aa", "tai-khoan-88aa", "quen-mat-khau-88aa", "huong-dan-88aa"]
 tag_display: ["hướng dẫn đăng nhập 88aa", "tài khoản 88aa", "quên mật khẩu 88aa", "hướng dẫn 88aa"]
@@ -11,7 +11,7 @@ featured: false
 difficulty: "Tất cả"
 time_required: "3 phút"
 draft: false
-url: "/dang-nhap-88aa/"
+url: "/dang-nhap-88aa-com/"
 ---
 
 **Hướng Dẫn Đăng Nhập 88AA An Toàn Chỉ Trong 3 Bước**

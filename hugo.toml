@@ -98,14 +98,14 @@ defaultContentLanguage = 'vi'
   [[menu.main]]
     parent = "huong-dan"
     name = "ĐĂNG KÝ 88AA"
-    url = "/dang-ky-88aa/"
+    url = "/dang-ky-88aa-com/"
     weight = 21
     pre = "📝"
 
   [[menu.main]]
     parent = "huong-dan"
     name = "ĐĂNG NHẬP 88AA"
-    url = "/dang-nhap-88aa/"
+    url = "/dang-nhap-88aa-com/"
     weight = 22
     pre = "🔑"
 
