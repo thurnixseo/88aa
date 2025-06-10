@@ -20,19 +20,19 @@
                 <div class="container mx-auto px-4">
                     <div class="max-w-4xl">
                         <!-- Breadcrumb -->
-                        <nav class="flex items-center space-x-2 text-sm text-gray-300 mb-6 flex-nowrap overflow-x-auto">
+                       <nav class="flex items-center flex-wrap text-sm text-gray-300 mb-6">
     <a href="/" class="hover:text-white transition-colors whitespace-nowrap">🏠 Trang chủ</a>
-    <span>→</span>
+    <span class="mx-1">→</span>
     {{ with .Section }}
         {{ $section := $.Site.GetPage (printf "/%s" .) }}
         {{ if $section }}
             <a href="{{ $section.Permalink }}" class="hover:text-white transition-colors whitespace-nowrap">
                 {{ $section.Title }}
             </a>
-            <span>→</span>
+            <span class="mx-1">→</span>
         {{ end }}
     {{ end }}
-    <span class="text-white whitespace-nowrap">{{ .Title }}</span>
+    <span class="text-white">{{ .Title }}</span>
 </nav>
                         
                         <!-- Title -->
