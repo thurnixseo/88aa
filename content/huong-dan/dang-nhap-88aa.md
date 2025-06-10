@@ -11,7 +11,7 @@ featured: false
 difficulty: "Tất cả"
 time_required: "3 phút"
 draft: false
-url: "/dang-nhap-88aa-com/"
+url: "/dang-nhap-88aa/"
 ---
 
 **Hướng Dẫn Đăng Nhập 88AA An Toàn Chỉ Trong 3 Bước**

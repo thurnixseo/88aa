@@ -11,7 +11,7 @@ featured: true
 difficulty: "Tất cả"
 time_required: "5 phút đọc"
 draft: false
-url: "/dang-ky-88aa-com/"
+url: "/dang-ky-88aa/"
 ---
 
 ✅ Hướng Dẫn Đăng Ký 88AA Chi Tiết Từ A-Z Năm 2025
