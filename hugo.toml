@@ -139,7 +139,7 @@ defaultContentLanguage = 'vi'
 
 [[menu.main]]
   name = "TRÒ CHƠI 88AA"
-  url = "/tro-choi/"
+  url = "#"
   weight = 30
   pre = "🎮"
   identifier = "tro-choi"
