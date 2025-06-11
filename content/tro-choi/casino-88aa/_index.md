@@ -1,7 +1,7 @@
 ---
 title: "Casino 88AA"
 description: "Tổng hợp các bài viết về Casino 88AA"
-icon: "🎮"
+icon: "🎰"
 type: "section"
 layout: "section"
 url: "/casino-88aa/"
