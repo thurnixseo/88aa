@@ -1,7 +1,7 @@
 ---
 title: "Giấy Phép Hoạt Động 88AA: Nền Tảng Pháp Lý Của Nhà Cái Casino Uy Tín"
 date: 2025-06-11
-categories: ["blog", "phap-ly"]
+categories: ["tin-tuc"]
 tags: ["giay-phep-88aa", "nha-cai-uy-tin", "casino-truc-tuyen", "pagcor-88aa", "phap-ly-nha-cai", "88aa-casino"]
 tag_display: ["giấy phép 88aa", "nhà cái uy tín", "casino trực tuyến", "pagcor 88aa", "pháp lý nhà cái", "88aa casino"]
 image: "/images/giay-phep-hoat-dong-casino-88aa-featured.webp"

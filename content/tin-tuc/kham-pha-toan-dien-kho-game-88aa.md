@@ -1,7 +1,7 @@
 ---
 title: "Khám Phá Toàn Diện Kho Game Đẳng Cấp Tại 88AA: Siêu Hướng Dẫn Chi Tiết"
 date: 2025-06-11
-categories: ["blog", "games", "huong-dan"]
+categories: ["tin-tuc"]
 tags: ["game-88aa", "casino-88aa", "live-casino", "no-hu-88aa", "game-bai-88aa", "baccarat-88aa", "danh-gia-nha-cai"]
 tag_display: ["game 88aa", "casino 88aa", "live casino", "nổ hũ 88aa", "game bài 88aa", "baccarat 88aa", "đánh giá nhà cái"]
 image: "/images/tong-hop-game-dinh-cao-88aa-featured.webp"

@@ -1,7 +1,7 @@
 ---
 title: "Tất Cả Về Live Casino 88AA: Hướng Dẫn Toàn Tập Trải Nghiệm Sòng Bạc Chân Thực"
 date: 2025-06-11
-categories: ["blog", "games", "huong-dan"]
+categories: ["tin-tuc"]
 tags: ["live-casino-88aa", "choi-baccarat", "choi-blackjack", "choi-roulette", "casino-truc-tuyen", "nha-cai-88aa", "huong-dan-live-casino"]
 tag_display: ["live casino 88aa", "chơi baccarat", "chơi blackjack", "chơi roulette", "casino trực tuyến", "nhà cái 88aa", "hướng dẫn live casino"]
 image: "/images/tat-ca-ve-live-casino-88aa-featured.webp"

@@ -1,7 +1,7 @@
 ---
 title: "Bách Khoa Toàn Thư Về Nổ Hũ Tại 88AA: Từ A-Z Kinh Nghiệm Chinh Phục Jackpot"
 date: 2025-06-11
-categories: ["blog", "games", "huong-dan"]
+categories: ["tin-tuc"]
 tags: ["no-hu-88aa", "choi-slots-online", "kinh-nghiem-no-hu", "jackpot-88aa", "meo-choi-slots", "rtp-la-gi", "game-no-hu-uy-tin"]
 tag_display: ["nổ hũ 88aa", "chơi slots online", "kinh nghiệm nổ hũ", "jackpot 88aa", "mẹo chơi slots", "rtp là gì", "game nổ hũ uy tín"]
 image: "/images/bach-khoa-toan-thu-no-hu-88aa-featured.webp"
