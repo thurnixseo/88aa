@@ -1,7 +1,7 @@
 ---
 title: "Thế Giới Game Bài 88AA: Hướng Dẫn Toàn Tập Về Tiến Lên, Phỏm, Mậu Binh"
 date: "2025-06-10"
-categories: ["game-bai-88aa"]
+categories: ["tro-choi", "game-bai-88aa"]
 tags: ["tien-len-mien-nam", "choi-phom", "mau-binh", "casino-truc-tuyen", "game-bai-doi-thuong", "huong-dan-game-bai"]
 tag_display: ["tiến lên miền nam", "chơi phỏm", "mậu binh", "casino trực tuyến", "game bài đổi thưởng", "hướng dẫn game bài"]
 image: "/images/the-gioi-game-bai-88aa-featured.webp"
