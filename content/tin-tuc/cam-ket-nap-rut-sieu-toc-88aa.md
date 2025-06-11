@@ -7,8 +7,8 @@ tag_display: ["nạp rút 88aa", "giao dịch 88aa", "thanh toán nhanh", "rút 
 image: "/images/nap-rut-sieu-toc-88aa-featured.webp"
 description: "Khám phá hệ thống nạp rút của 88AA - Nơi tốc độ, sự an toàn và minh bạch được đặt lên hàng đầu. Tìm hiểu quy trình giao dịch nhanh gọn và an toàn tuyệt đối."
 author: "Chuyên Gia 88AA"
-featured: true
-difficulty: "Mọi cấp độ"
+featured: false
+difficulty: "Tất cả"
 time_required: "6 phút đọc"
 draft: false
 url: "/cam-ket-nap-rut-sieu-toc-88aa/"

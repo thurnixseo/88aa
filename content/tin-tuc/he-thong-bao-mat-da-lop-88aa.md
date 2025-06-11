@@ -83,11 +83,3 @@ Công nghệ mạnh là chưa đủ, **88AA** còn ràng buộc mình bằng nh�
 
 Với một hệ thống bảo mật đa lớp, được xây dựng bài bản từ ngoài vào trong, từ công nghệ đến chính sách, **88AA** mang đến một môi trường giải trí an toàn bậc nhất. Giờ đây, bạn có thể gạt bỏ mọi lo lắng về an ninh, tập trung 100% tâm trí vào những ván game đỉnh cao và tận hưởng niềm vui chiến thắng một cách trọn vẹn nhất.
 
-***
-
-### Danh sách hình ảnh đã sử dụng:
-
-* he thong bao mat da lop 88aa
-* chung chi bao mat ssl 88aa
-* bao ve tai khoan ca nhan 88aa
-* tuong lua bao ve he thong 88aa

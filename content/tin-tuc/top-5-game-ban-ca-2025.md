@@ -7,7 +7,7 @@ tag_display: ["bắn cá 88aa", "game mới 88aa", "jackpot 88aa", "88aa năm 20
 image: "/images/top-5-ban-ca-2025.webp"
 description: "Khám phá 5 game bắn cá hot nhất năm 2025 với đồ họa 3D siêu thực, tỷ lệ thắng cao và jackpot khủng lên tới tỷ đồng."
 author: "Gaming Expert 88AA"
-featured: true
+featured: false
 difficulty: "Tất cả"
 time_required: "10 phút đọc"
 draft: false

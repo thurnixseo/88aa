@@ -7,7 +7,7 @@ tag_display: ["88aa uy tín", "88aa bảo mật", "đánh giá 88aa", "88aa an t
 image: "/images/88aa-co-uy-tin-khong-featured.webp"
 description: "Giải đáp thắc mắc liệu cổng game 88AA có uy tín không. Bài viết đi sâu vào phân tích các yếu tố cốt lõi như giấy phép hoạt động, công nghệ bảo mật, và sự minh bạch trong giao dịch."
 author: "Chuyên Gia 88AA"
-featured: false
+featured: true
 difficulty: "Tất cả"
 time_required: "7 phút đọc"
 draft: false
