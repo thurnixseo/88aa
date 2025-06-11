@@ -1,7 +1,7 @@
 ---
 title: "88AA - Cam Kết Nạp Rút Siêu Tốc, An Toàn Tuyệt Đối Cho Mọi Giao Dịch"
 date: 2025-06-11
-categories: ["blog", "thanh-toan"]
+categories: ["tin-tuc"]
 tags: ["nap-rut-88aa", "giao-dich-88aa", "thanh-toan-nhanh", "rut-tien-uy-tin", "nap-tien-88aa"]
 tag_display: ["nạp rút 88aa", "giao dịch 88aa", "thanh toán nhanh", "rút tiền uy tín", "nạp tiền 88aa"]
 image: "/images/nap-rut-sieu-toc-88aa-featured.webp"

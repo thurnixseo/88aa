@@ -1,7 +1,7 @@
 ---
 title: "An Tâm Trải Nghiệm Tại 88AA: Hệ Thống Bảo Mật Đa Lớp Chuẩn Quốc Tế"
 date: 2025-06-11
-categories: ["blog", "bao-mat"]
+categories: ["tin-tuc"]
 tags: ["bao-mat-88aa", "an-toan-tai-khoan", "cong-nghe-bao-mat", "ssl-88aa", "bao-mat-thong-tin"]
 tag_display: ["bảo mật 88aa", "an toàn tài khoản", "công nghệ bảo mật", "ssl 88aa", "bảo mật thông tin"]
 image: "/images/he-thong-bao-mat-da-lop-88aa.webp"

@@ -1,7 +1,7 @@
 ---
 title: "88AA - Không Chỉ Là Giải Trí, Đó Là Đam Mê Bất Tận"
 date: "2025-06-10"
-categories: ["blog", "thuong-hieu"]
+categories: ["tin-tuc"]
 tags: ["dam-me-88aa", "cong-dong-88aa", "game-thu-88aa", "y-nghia-game", "thuong-hieu-88aa"]
 tag_display: ["đam mê 88aa", "cộng đồng 88aa", "game thủ 88aa", "ý nghĩa game", "thương hiệu 88aa"]
 image: "/images/88aa-dam-me-bat-tan-featured.webp"

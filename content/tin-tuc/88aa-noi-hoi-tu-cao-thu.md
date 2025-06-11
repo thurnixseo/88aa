@@ -1,7 +1,7 @@
 ---
 title: "88AA: Nơi Hội Tụ Của Các Cao Thủ - Bạn Đã Sẵn Sàng Thử Sức?"
 date: 2025-06-10
-categories: ["blog", "thuong-hieu"]
+categories: ["tin-tuc"]
 tags: ["cao-thu-88aa", "thu-thach-88aa", "dau-truong-88aa", "cong-dong-game-thu", "ky-nang-game"]
 tag_display: ["cao thủ 88aa", "thử thách 88aa", "đấu trường 88aa", "cộng đồng game thủ", "kỹ năng game"]
 image: "/images/88aa-noi-hoi-tu-cao-thu-featured.webp"
