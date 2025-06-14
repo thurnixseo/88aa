@@ -5,7 +5,7 @@ categories: ["tin-tuc"]
 tags: ["y-nghia-so-88", "88aa", "phong-thuy-so", "bien-so-xe-88aa", "nha-cai-88aa", "so-dep", "vinh-phuc"]
 tag_display: ["ý nghĩa số 88", "88aa", "phong thủy số", "biển số xe 88aa", "nhà cái 88aa", "số đẹp", "Vĩnh Phúc"]
 image: "/images/giai-ma-y-nghia-phong-thuy-so-88aa.webp"
-description: "Luận giải chi tiết, hài hước và sâu sắc về ý nghĩa của con số 88 trong phong thủy, sự kết hợp 'bá đạo' với 'AA' và tại sao biển số xe 88AA lại được săn lùng. Cùng 88AA khám phá bí ẩn đằng sau những con số may mắn."
+description: "Luận giải chi tiết về ý nghĩa của con số 88 trong phong thủy, sự kết hợp 'bá đạo' với 'AA' và tại sao biển số xe 88AA lại được săn lùng. Cùng 88AA khám phá bí ẩn đằng sau những con số may mắn."
 author: "Chuyên gia 88AA"
 featured: false
 difficulty: "Tất cả"

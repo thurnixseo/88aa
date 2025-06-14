@@ -5,7 +5,7 @@ categories: ["tro-choi", "xo-so-88aa"]
 tags: ["soi-cau-88aa", "bi-kip-lo-de", "du-doan-xo-so", "bac-nho-lo-de", "lo-gan", "soi-cau-pascal", "nha-cai-uy-tin"]
 tag_display: ["soi cầu 88aa", "bí kíp lô đề", "dự đoán xổ số", "bạc nhớ lô đề", "lô gan", "soi cầu pascal", "nhà cái uy tín"]
 image: "/images/bi-kip-soi-cau-lo-de-88aa-tu-chuyen-gia-featured.webp"
-description: "Bài viết chuyên sâu dài hơn 2000 từ, phân tích độc quyền các bí kíp soi cầu lô đề tại 88AA từ các chuyên gia. Hướng dẫn chi tiết các phương pháp bất bại như Bạc Nhớ, Lô Gan, Soi cầu Pascal."
+description: "Phân tích độc quyền các bí kíp soi cầu lô đề tại 88AA từ các chuyên gia. Hướng dẫn chi tiết các phương pháp bất bại như Bạc Nhớ, Lô Gan, Soi cầu Pascal."
 author: "Chuyên Gia 88AA"
 featured: true
 difficulty: "Nâng cao"

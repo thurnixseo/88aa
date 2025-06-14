@@ -5,7 +5,7 @@ categories: ["khuyen-mai"]
 tags: ["khuyen-mai-88aa", "su-kien-88aa", "lich-khuyen-mai", "san-thuong-casino", "bonus-hang-thang", "nha-cai-uy-tin"]
 tag_display: ["khuyến mãi 88aa", "sự kiện 88aa", "lịch khuyến mãi", "săn thưởng casino", "bonus hàng tháng", "nhà cái uy tín"]
 image: "/images/lich-trinh-san-thuong-88aa-hang-thang-featured.webp"
-description: "Bài viết chuyên sâu dài hơn 2000 từ, cung cấp một lịch trình và kế hoạch chiến lược hàng tháng để săn thưởng tại nhà cái 88AA. Hướng dẫn cách tối ưu hóa lợi nhuận từ các sự kiện thường niên."
+description: "Cung cấp một lịch trình và kế hoạch chiến lược hàng tháng để săn thưởng tại nhà cái 88AA. Hướng dẫn cách tối ưu hóa lợi nhuận từ các sự kiện thường niên."
 author: "Chuyên Gia 88AA"
 featured: false
 difficulty: "Cao thủ"

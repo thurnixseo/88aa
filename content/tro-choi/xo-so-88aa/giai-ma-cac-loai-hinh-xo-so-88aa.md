@@ -5,7 +5,7 @@ categories: ["tro-choi", "xo-so-88aa"]
 tags: ["xo-so-88aa", "loai-hinh-xo-so", "keno", "xo-so-sieu-toc", "lo-de-online", "so-sanh-xo-so", "nha-cai-uy-tin"]
 tag_display: ["xổ số 88aa", "loại hình xổ số", "keno", "xổ số siêu tốc", "lô đề online", "so sánh xổ số", "nhà cái uy tín"]
 image: "/images/giai-ma-cac-sanh-xo-so-88aa-featured.webp"
-description: "Bài viết chuyên sâu dài hơn 2000 từ, phân tích và so sánh chi tiết các loại hình xổ số hot nhất tại 88AA: Xổ số 3 miền, Xổ số siêu tốc, Keno và Number Game. Giúp bạn chọn ra sân chơi phù hợp nhất."
+description: "Phân tích và so sánh chi tiết các loại hình xổ số hot nhất tại 88AA: Xổ số 3 miền, Xổ số siêu tốc, Keno và Number Game. Giúp bạn chọn ra sân chơi phù hợp nhất."
 author: "Chuyên Gia 88AA"
 featured: false
 difficulty: "Mọi cấp độ"

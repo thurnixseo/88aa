@@ -5,7 +5,7 @@ categories: ["khuyen-mai", "huong-dan"]
 tags: ["khuyen-mai-88aa", "code-tan-thu-88aa", "bonus-88aa", "hoan-tra-88aa", "vip-88aa", "nha-cai-uy-tin"]
 tag_display: ["khuyến mãi 88aa", "code tân thủ 88aa", "bonus 88aa", "hoàn trả 88aa", "vip 88aa", "nhà cái uy tín"]
 image: "/images/bi-kip-san-khuyen-mai-88aa-featured.webp"
-description: "Hướng dẫn chi tiết dài hơn 2000 từ về toàn bộ hệ thống khuyến mãi tại nhà cái 88AA. Phân tích sâu về Code Tân Thủ, Bonus nạp đầu, Hoàn trả, và đặc quyền của chương trình VIP."
+description: "Hướng dẫn chi tiết về toàn bộ hệ thống khuyến mãi tại nhà cái 88AA. Phân tích sâu về Code Tân Thủ, Bonus nạp đầu, Hoàn trả, và đặc quyền của chương trình VIP."
 author: "Chuyên Gia 88AA"
 featured: true
 difficulty: "Mọi cấp độ"

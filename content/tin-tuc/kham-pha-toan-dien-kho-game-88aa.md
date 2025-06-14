@@ -5,7 +5,7 @@ categories: ["tin-tuc"]
 tags: ["game-88aa", "casino-88aa", "live-casino", "no-hu-88aa", "game-bai-88aa", "baccarat-88aa", "danh-gia-nha-cai"]
 tag_display: ["game 88aa", "casino 88aa", "live casino", "nổ hũ 88aa", "game bài 88aa", "baccarat 88aa", "đánh giá nhà cái"]
 image: "/images/tong-hop-game-dinh-cao-88aa-featured.webp"
-description: "Bài viết chi tiết nhất, dài hơn 2000 từ, đưa bạn vào một chuyến du hành khám phá toàn bộ kho game tại nhà cái casino 88AA. Phân tích sâu từng sảnh: Live Casino, Nổ Hũ, Game Bài 3D và hơn thế nữa."
+description: "Bài viết chi tiết nhất đưa bạn vào một chuyến du hành khám phá toàn bộ kho game tại nhà cái casino 88AA. Phân tích sâu từng sảnh: Live Casino, Nổ Hũ, Game Bài 3D và hơn thế nữa."
 author: "Chuyên Gia 88AA"
 featured: false
 difficulty: "Mọi cấp độ"

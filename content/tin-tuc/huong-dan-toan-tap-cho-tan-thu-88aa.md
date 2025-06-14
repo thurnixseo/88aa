@@ -5,7 +5,7 @@ categories: ["tin-tuc", "huong-dan"]
 tags: ["dang-ky-88aa", "huong-dan-tan-thu", "bao-mat-tai-khoan", "nap-tien-88aa", "nha-cai-uy-tin", "casino-truc-tuyen"]
 tag_display: ["đăng ký 88aa", "hướng dẫn tân thủ", "bảo mật tài khoản", "nạp tiền 88aa", "nhà cái uy tín", "casino trực tuyến"]
 image: "/images/huong-dan-toan-tap-cho-tan-thu-88aa-featured.webp"
-description: "Bài viết chi tiết dài hơn 2000 từ, là cẩm nang toàn diện nhất cho người mới bắt đầu tại 88AA. Hướng dẫn từng bước từ đăng ký, xác thực, thiết lập bảo mật, làm quen giao diện và thực hiện giao dịch đầu tiên."
+description: "Bài viết chi tiết này là cẩm nang toàn diện nhất cho người mới bắt đầu tại 88AA. Hướng dẫn từng bước từ đăng ký, xác thực, thiết lập bảo mật, làm quen giao diện và thực hiện giao dịch đầu tiên."
 author: "Chuyên Gia 88AA"
 featured: false
 difficulty: "Cơ bản"

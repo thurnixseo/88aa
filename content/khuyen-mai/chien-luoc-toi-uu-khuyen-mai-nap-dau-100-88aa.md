@@ -5,7 +5,7 @@ categories: ["khuyen-mai"]
 tags: ["khuyen-mai-88aa", "bonus-nap-dau", "chien-luoc-ca-cuoc", "quan-ly-von", "vong-cuoc-yeu-cau", "meo-choi-casino"]
 tag_display: ["khuyến mãi 88aa", "bonus nạp đầu", "chiến lược cá cược", "quản lý vốn", "vòng cược yêu cầu", "mẹo chơi casino"]
 image: "/images/chien-luoc-khuyen-mai-nap-dau-88aa-featured.webp"
-description: "Bài viết chuyên sâu dài hơn 2000 từ, cung cấp một chiến lược toàn diện từ A-Z để tận dụng tối đa khuyến mãi nạp đầu 100% tại nhà cái 88AA, giúp bạn xây dựng một nguồn vốn bền vững."
+description: "Cung cấp một chiến lược toàn diện từ A-Z để tận dụng tối đa khuyến mãi nạp đầu 100% tại nhà cái 88AA, giúp bạn xây dựng một nguồn vốn bền vững."
 author: "Chuyên Gia 88AA"
 featured: false
 difficulty: "Nâng cao"

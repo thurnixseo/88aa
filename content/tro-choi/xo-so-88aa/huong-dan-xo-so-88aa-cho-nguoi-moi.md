@@ -5,7 +5,7 @@ categories: ["tro-choi", "xo-so-88aa"]
 tags: ["xo-so-88aa", "huong-dan-choi-xo-so", "soi-cau-88aa", "lo-de-online", "keno-88aa", "xo-so-sieu-toc", "nha-cai-uy-tin"]
 tag_display: ["xổ số 88aa", "hướng dẫn chơi xổ số", "soi cầu 88aa", "lô đề online", "keno 88aa", "xổ số siêu tốc", "nhà cái uy tín"]
 image: "/images/huong-dan-xo-so-88aa-cho-nguoi-moi-featured.webp"
-description: "Bài viết chi tiết nhất, dài hơn 2000 từ, hướng dẫn toàn tập về xổ số 88AA cho người mới. Bao gồm cách chơi các loại hình xổ số, lô đề online và các phương pháp soi cầu chuẩn từ chuyên gia."
+description: "Hướng dẫn toàn tập về xổ số 88AA cho người mới. Bao gồm cách chơi các loại hình xổ số, lô đề online và các phương pháp soi cầu chuẩn từ chuyên gia."
 author: "Chuyên Gia 88AA"
 featured: true
 difficulty: "Cơ bản"
