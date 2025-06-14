@@ -83,7 +83,7 @@ Lô Gan (hay Lô Khan) là những con lô "lỳ lợm" không chịu xuất hi�
 
 #### **3.1. Phân Tích Lô Gan Một Cách Khoa Học**
 Việc "nuôi" lô gan không phải là chọn bừa một con số lâu chưa về. Nó đòi hỏi sự phân tích kỹ lưỡng.
-* **Bước 1: Xác định Lô Gan:** Dùng công cụ thống kê tại **88AA** để lọc ra danh sách các con lô có chu kỳ gan trên 10 ngày.
+* **Bước 1: Xác định Lô Gan:** Dùng công cụ thống kê tại [**88AA**](https://88aa.com.co "88AA") để lọc ra danh sách các con lô có chu kỳ gan trên 10 ngày.
 * **Bước 2: Phân Tích "Gan Cực Đại" (Max Gan):** Đây là bước cực kỳ quan trọng. Hãy xem lại lịch sử của con lô đó. Ví dụ, bạn đang theo dõi lô 25 đã gan 18 ngày. Bạn cần xem lại trong quá khứ, chu kỳ gan dài nhất của nó là bao nhiêu ngày (gan cực đại)? Nếu gan cực đại của nó là 25 ngày, thì việc nó đã gan 18 ngày là một tín hiệu đáng chú ý, cho thấy nó đang tiến gần đến giới hạn của mình. Ngược lại, nếu gan cực đại của nó từng lên đến 40 ngày, thì 18 ngày vẫn còn khá "non".
 * **Bước 3: Tìm Dấu Hiệu "Phá Gan":** Trước khi một con lô gan xuất hiện, nó thường có những dấu hiệu báo trước. Hãy quan sát xem các con số "họ hàng" của nó có xuất hiện nhiều không. Ví dụ, với lô gan 25, nếu bạn thấy lô 24, 26, 52 (lộn), hoặc các lô có tổng/hiệu là 2 hoặc 5 bắt đầu ra nhiều, đó có thể là dấu hiệu con 25 sắp "phá gan" để trở về.
 
