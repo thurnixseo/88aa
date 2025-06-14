@@ -9,7 +9,7 @@ description: "Hướng dẫn chi tiết cách đăng nhập vào tài khoản 88
 author: "Chuyên Gia 88AA"
 featured: false
 difficulty: "Tất cả"
-time_required: "3 phút"
+time_required: "3 phút đọc"
 draft: false
 url: "/dang-nhap-88aa/"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "🔥 TOP 5 Game Bắn Cá HOT Nhất 2025 Tại 88AA - Jackpot 5 Tỷ Đồng!"
 date: 2025-06-08T09:15:00+07:00
-categories: ["tin-tuc"]
+categories: ["tin-tuc", "tro-choi", "ban-ca"]
 tags: ["ban-ca-88aa", "game-moi-88aa", "jackpot-88aa", "88aa-năm-2025", "hot-games-88aa"]
 tag_display: ["bắn cá 88aa", "game mới 88aa", "jackpot 88aa", "88aa năm 2025", "hot games 88aa"]
 image: "/images/top-5-ban-ca-2025.webp"

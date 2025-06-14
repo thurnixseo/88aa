@@ -1,7 +1,7 @@
 ---
 title: "Bí Kíp Săn Khuyến Mãi 88AA: Hướng Dẫn Toàn Tập Từ Code Tân Thủ Đến VIP"
 date: "2025-06-11"
-categories: ["khuyen-mai"]
+categories: ["khuyen-mai", "huong-dan"]
 tags: ["khuyen-mai-88aa", "code-tan-thu-88aa", "bonus-88aa", "hoan-tra-88aa", "vip-88aa", "nha-cai-uy-tin"]
 tag_display: ["khuyến mãi 88aa", "code tân thủ 88aa", "bonus 88aa", "hoàn trả 88aa", "vip 88aa", "nhà cái uy tín"]
 image: "/images/bi-kip-san-khuyen-mai-88aa-featured.webp"
@@ -108,7 +108,7 @@ Chương trình VIP của **88AA** là lời tri ân sâu sắc nhất dành cho
     * **Quản lý tài khoản cá nhân:** Ở những cấp cao nhất, bạn sẽ có một nhân viên hỗ trợ riêng, sẵn sàng giải đáp và giúp đỡ bạn 24/7.
     * **Quà tặng hiện vật:** **88AA** thường xuyên gửi những món quà giá trị như điện thoại thông minh, đồng hồ cao cấp, các chuyến du lịch... đến các thành viên VIP kim cương.
 
-Tất cả các chương trình này đều được cập nhật liên tục, vì vậy hãy thường xuyên kiểm tra mục **[ưu đãi 88AA](https://88aa.com.vn/khuyến mãi "ưu đãi 88AA")** để không bỏ lỡ bất kỳ cơ hội nào.
+Tất cả các chương trình này đều được cập nhật liên tục, vì vậy hãy thường xuyên kiểm tra mục **[ưu đãi 88AA](https://88aa.com.vn/khuyen-mai/ "ưu đãi 88AA")** để không bỏ lỡ bất kỳ cơ hội nào.
 
 ## Lời Kết: Hãy Là Một Người Chơi Thông Thái
 
