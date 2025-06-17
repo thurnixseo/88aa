@@ -1,7 +1,7 @@
 ---
 title: "Review Bắn Cá 3D 88AA: Đồ Họa Đỉnh Cao, Jackpot Bất Ngờ & Tính Năng Ẩn"
 date: "2025-06-15"
-categories: ["tro-choi", "ban-ca-88aa]
+categories: ["tro-choi", "ban-ca-88aa"]
 tags: ["review-ban-ca-88aa", "danh-gia-game-88aa", "ban-ca-3d", "jackpot-ban-ca", "do-hoa-game", "nha-cai-uy-tin", "casino-88aa"]
 tag_display: ["review bắn cá 88aa", "đánh giá game 88aa", "bắn cá 3d", "jackpot bắn cá", "đồ họa game", "nhà cái uy tín", "casino 88aa"]
 image: "/images/review-ban-ca-3d-88aa-featured.webp"
