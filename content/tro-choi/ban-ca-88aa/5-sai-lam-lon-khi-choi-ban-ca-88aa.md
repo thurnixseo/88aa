@@ -7,7 +7,7 @@ tag_display: ["sai lầm bắn cá", "thua bắn cá", "kinh nghiệm bắn cá"
 image: "/images/5-sai-lam-lon-khi-choi-ban-ca-88aa-featured.webp"
 description: "Bài viết chuyên sâu dài hơn 2000 từ, vạch trần 5 sai lầm lớn trong tư duy và chiến thuật khi chơi Bắn Cá 88AA khiến bạn luôn thua lỗ, đồng thời cung cấp các giải pháp khắc phục chi tiết."
 author: "Chuyên Gia 88AA"
-featured: true
+featured: false
 difficulty: "Mọi cấp độ"
 time_required: "31 phút đọc"
 draft: false
