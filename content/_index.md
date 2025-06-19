@@ -177,7 +177,7 @@ schemas:
         
         <div class="text-center mt-12">
             <a href="https://88aa.com.co" class="bg-game-primary hover:bg-orange-600 text-white text-2xl font-bold py-6 px-12 rounded-full transition-all duration-300 transform hover:scale-105">
-                Đăng Ký Ngay Tại 88AA
+                Đăng Ký Ngay
             </a>
         </div>
     </div>
