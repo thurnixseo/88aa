@@ -590,7 +590,7 @@ schemas:
             
             <!-- Jackpot counter -->
             <div class="bg-black/30 backdrop-blur-sm rounded-2xl p-8 max-w-2xl mx-auto mb-8">
-                <div class="text-6xl md:text-8xl font-bold text-yellow-400 mb-4 jackpot-counter">
+                <div class="text-4xl md:text-8xl font-bold text-yellow-400 mb-4 jackpot-counter">
                     2.345.678.900
                 </div>
                 <div class="text-2xl text-white font-semibold">VNĐ</div>
