@@ -5,7 +5,7 @@ categories: ["tro-choi", "ban-ca-88aa"]
 tags: ["ban-ca-88aa", "huong-dan-ban-ca", "game-ban-ca-doi-thuong", "meo-choi-ban-ca", "nha-cai-uy-tin", "casino-88aa"]
 tag_display: ["bắn cá 88aa", "hướng dẫn bắn cá", "game bắn cá đổi thưởng", "mẹo chơi bắn cá", "nhà cái uy tín", "casino 88aa"]
 image: "/images/ban-ca-88aa-cho-nguoi-moi-featured.webp"
-description: "Bài viết chi tiết nhất dài hơn 2000 từ, hướng dẫn toàn tập về game Bắn Cá 88AA cho người mới bắt đầu. Phân tích chi tiết luật chơi, các loại vũ khí, hệ số thưởng của từng loại cá và chiến thuật cơ bản."
+description: "Bài viết sẽ hướng dẫn toàn tập về game Bắn Cá 88AA cho người mới bắt đầu. Phân tích chi tiết luật chơi, các loại vũ khí, hệ số thưởng của từng loại cá và chiến thuật cơ bản."
 author: "Chuyên Gia 88AA"
 featured: true
 difficulty: "Cơ bản"

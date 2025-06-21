@@ -5,7 +5,7 @@ categories: ["tro-choi", "the-thao-88aa"]
 tags: ["ca-cuoc-esports", "esports-88aa", "keo-lien-minh", "keo-csgo", "huong-dan-ca-cuoc", "dota-2", "nha-cai-uy-tin"]
 tag_display: ["cá cược esports", "esports 88aa", "kèo liên minh", "kèo csgo", "hướng dẫn cá cược", "dota 2", "nhà cái uy tín"]
 image: "/images/the_thao_88aa_esports.webp"
-description: "Hướng dẫn chi tiết dài hơn 2000 từ dành cho người mới bắt đầu cá cược Esports tại 88AA. Phân tích toàn tập các loại kèo cược đặc thù của Liên Minh Huyền Thoại (LOL) và CS:GO."
+description: "Hướng dẫn chi tiết dành cho người mới bắt đầu cá cược Esports tại 88AA. Phân tích toàn tập các loại kèo cược đặc thù của Liên Minh Huyền Thoại (LOL) và CS:GO."
 author: "Chuyên Gia 88AA"
 featured: false
 difficulty: "Cơ bản"

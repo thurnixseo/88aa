@@ -5,7 +5,7 @@ categories: ["tro-choi", "casino-88aa"]
 tags: ["blackjack-88aa", "choi-blackjack", "huong-dan-blackjack", "chien-thuat-blackjack", "basic-strategy", "live-casino-88aa", "danh-bai-nha-cai"]
 tag_display: ["blackjack 88aa", "chơi blackjack", "hướng dẫn blackjack", "chiến thuật blackjack", "basic strategy", "live casino 88aa", "đánh bại nhà cái"]
 image: "/images/casino_88aa_blackjack.webp"
-description: "Bài viết chuyên sâu dài hơn 2000 từ, là cẩm nang toàn tập về game Blackjack tại 88AA. Phân tích chi tiết luật chơi, các quyết định chiến lược và đặc biệt là 'Chiến Lược Cơ Bản' - phương pháp toán học để đánh bại nhà cái."
+description: "Cẩm nang toàn tập về game Blackjack tại 88AA. Phân tích chi tiết luật chơi, các quyết định chiến lược và đặc biệt là 'Chiến Lược Cơ Bản' - phương pháp toán học để đánh bại nhà cái."
 author: "Chuyên Gia 88AA"
 featured: false
 difficulty: "Từ cơ bản đến nâng cao"

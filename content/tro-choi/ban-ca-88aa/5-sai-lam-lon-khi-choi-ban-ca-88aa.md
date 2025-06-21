@@ -5,7 +5,7 @@ categories: ["tro-choi", "ban-ca-88aa"]
 tags: ["sai-lam-ban-ca", "thua-ban-ca", "kinh-nghiem-ban-ca", "meo-choi-ban-ca", "ban-ca-88aa", "casino-88aa", "khac-phuc-loi"]
 tag_display: ["sai lầm bắn cá", "thua bắn cá", "kinh nghiệm bắn cá", "mẹo chơi bắn cá", "bắn cá 88aa", "casino 88aa", "khắc phục lỗi"]
 image: "/images/5-sai-lam-lon-khi-choi-ban-ca-88aa-featured.webp"
-description: "Bài viết chuyên sâu dài hơn 2000 từ, vạch trần 5 sai lầm lớn trong tư duy và chiến thuật khi chơi Bắn Cá 88AA khiến bạn luôn thua lỗ, đồng thời cung cấp các giải pháp khắc phục chi tiết."
+description: "Bài viết vạch trần 5 sai lầm lớn trong tư duy và chiến thuật khi chơi Bắn Cá 88AA khiến bạn luôn thua lỗ, đồng thời cung cấp các giải pháp khắc phục chi tiết."
 author: "Chuyên Gia 88AA"
 featured: false
 difficulty: "Mọi cấp độ"

@@ -5,7 +5,7 @@ categories: ["tro-choi", "the-thao-88aa"]
 tags: ["keo-chap-chau-a", "kinh-nghiem-ca-cuoc", "doc-keo-88aa", "keo-chap-0.25", "keo-chap-0.5", "chien-thuat-ca-cuoc", "nha-cai-uy-tin"]
 tag_display: ["kèo chấp châu á", "kinh nghiệm cá cược", "đọc kèo 88aa", "kèo chấp 0.25", "kèo chấp 0.5", "chiến thuật cá cược", "nhà cái uy tín"]
 image: "/images/the_thao_88aa_ty_so.webp"
-description: "Bài viết phân tích chuyên sâu dài hơn 2000 từ, so sánh chi tiết giữa Kèo Chấp 0.5 và Kèo Chấp 0.25 tại 88AA. Cung cấp các kịch bản và chiến thuật để bạn biết khi nào nên lựa chọn từng loại kèo như một chuyên gia."
+description: "So sánh chi tiết giữa Kèo Chấp 0.5 và Kèo Chấp 0.25 tại 88AA. Cung cấp các kịch bản và chiến thuật để bạn biết khi nào nên lựa chọn từng loại kèo như một chuyên gia."
 author: "Chuyên Gia 88AA"
 featured: false
 difficulty: "Nâng cao"

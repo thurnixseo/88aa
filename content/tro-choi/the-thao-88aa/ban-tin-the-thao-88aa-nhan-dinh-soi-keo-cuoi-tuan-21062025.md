@@ -5,7 +5,7 @@ categories: ["tro-choi", "the-thao-88aa"]
 tags: ["soi-keo-bong-da", "nhan-dinh-tran-dau", "ca-cuoc-the-thao", "ban-tin-88aa", "keo-copa-america", "keo-esports", "nha-cai-uy-tin"]
 tag_display: ["soi kèo bóng đá", "nhận định trận đấu", "cá cược thể thao", "bản tin 88aa", "kèo copa america", "kèo esports", "nhà cái uy tín"]
 image: "/images/the_thao_88aa_tin_tuc.webp"
-description: "Bản tin soi kèo chuyên sâu dài hơn 2000 từ từ các chuyên gia 88AA cho cuối tuần 21-22/06/2025. Phân tích chi tiết và dự đoán các trận cầu đinh: Siêu kinh điển Brazil vs Argentina, đại chiến giao hữu Man Utd vs Dortmund và Chung kết LCK T1 vs Gen.G."
+description: "Bản tin soi kèo chuyên sâu từ các chuyên gia 88AA cho cuối tuần 21-22/06/2025. Phân tích chi tiết và dự đoán các trận cầu đinh: Siêu kinh điển Brazil vs Argentina, đại chiến giao hữu Man Utd vs Dortmund và Chung kết LCK T1 vs Gen.G."
 author: "Chuyên Gia 88AA"
 featured: false
 difficulty: "Nâng cao"

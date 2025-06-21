@@ -5,7 +5,7 @@ categories: ["tro-choi", "the-thao-88aa"]
 tags: ["the-thao-88aa", "ca-cuoc-bong-da", "ca-cuoc-esports", "nha-cai-uy-tin", "keo-chau-a", "casino-88aa"]
 tag_display: ["thể thao 88aa", "cá cược bóng đá", "cá cược esports", "nhà cái uy tín", "kèo châu á", "casino 88aa"]
 image: "/images/the_thao_88aa_bong_da.webp"
-description: "Bài viết chi tiết dài hơn 2000 từ, giới thiệu và khám phá toàn diện sảnh Thể Thao tại nhà cái 88AA. Phân tích sự đa dạng kèo cược trong Bóng Đá, Bóng Rổ, Tennis và đặc biệt là Esports."
+description: "Giới thiệu và khám phá toàn diện sảnh Thể Thao tại nhà cái 88AA. Phân tích sự đa dạng kèo cược trong Bóng Đá, Bóng Rổ, Tennis và đặc biệt là Esports."
 author: "Chuyên Gia 88AA"
 featured: true
 difficulty: "Cơ bản"

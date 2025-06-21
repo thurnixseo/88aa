@@ -5,7 +5,7 @@ categories: ["tro-choi", "casino-88aa"]
 tags: ["casino-88aa", "casino-online", "live-casino", "casino-uy-tin", "danh-gia-casino", "casino-luxury", "giai-tri-dinh-cao"]
 tag_display: ["casino 88aa", "casino online", "live casino", "casino uy tín", "đánh giá casino", "casino luxury", "giải trí đỉnh cao"]
 image: "/images/casino_88aa_luxury.webp"
-description: "Bài viết giới thiệu chi tiết dài hơn 2000 từ, đưa bạn vào một chuyến tham quan toàn diện tại Casino 88AA - một thiên đường giải trí đẳng cấp quốc tế với kiến trúc tinh tế, các sảnh game đa dạng và dịch vụ 5 sao."
+description: "Bài viết giới thiệu chi tiết đưa bạn vào một chuyến tham quan toàn diện tại Casino 88AA - một thiên đường giải trí đẳng cấp quốc tế với kiến trúc tinh tế, các sảnh game đa dạng và dịch vụ 5 sao."
 author: "Chuyên Gia 88AA"
 featured: true
 difficulty: "Cơ bản"

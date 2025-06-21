@@ -5,7 +5,7 @@ categories: ["tro-choi", "the-thao-88aa"]
 tags: ["tam-ly-ca-cuoc", "kiem-soat-cam-xuc", "choi-co-trach-nhiem", "kinh-nghiem-ca-cuoc", "nha-cai-88aa", "thang-lon"]
 tag_display: ["tâm lý cá cược", "kiểm soát cảm xúc", "chơi có trách nhiệm", "kinh nghiệm cá cược", "nhà cái 88aa", "thắng lớn"]
 image: "/images/the_thao_88aa_ho_tro.webp"
-description: "Bài viết chuyên sâu dài hơn 2000 từ, phân tích về tâm lý học trong cá cược thể thao tại 88AA. Hướng dẫn cách kiểm soát cảm xúc, vượt qua hai 'con quỷ' lớn nhất là Cay Cú và Tham Lam để chiến thắng bền vững."
+description: "Phân tích về tâm lý học trong cá cược thể thao tại 88AA. Hướng dẫn cách kiểm soát cảm xúc, vượt qua hai 'con quỷ' lớn nhất là Cay Cú và Tham Lam để chiến thắng bền vững."
 author: "Chuyên Gia 88AA"
 featured: false
 difficulty: "Chuyên gia"

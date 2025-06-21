@@ -5,7 +5,7 @@ categories: ["tro-choi", "ban-ca-88aa"]
 tags: ["ban-ca-it-von", "chien-thuat-ban-ca", "meo-choi-ban-ca", "ban-ca-88aa", "game-ban-ca-cho-nguoi-moi", "casino-88aa"]
 tag_display: ["bắn cá ít vốn", "chiến thuật bắn cá", "mẹo chơi bắn cá", "bắn cá 88aa", "game bắn cá cho người mới", "casino 88aa"]
 image: "/images/chien-thuat-ban-ca-88aa-it-von-featured.webp"
-description: "Bài viết chi tiết dài hơn 2000 từ, hướng dẫn các chiến thuật chơi Bắn Cá 88AA dành cho người ít vốn. Khám phá cách bắn tỉa, bắn theo bầy và các mẹo quản lý đạn để tích lũy vốn từ con số 0."
+description: "Bài viết sẽ hướng dẫn các chiến thuật chơi Bắn Cá 88AA dành cho người ít vốn. Khám phá cách bắn tỉa, bắn theo bầy và các mẹo quản lý đạn để tích lũy vốn từ con số 0."
 author: "Chuyên Gia 88AA"
 featured: false
 difficulty: "Cơ bản"

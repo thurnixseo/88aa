@@ -5,7 +5,7 @@ categories: ["tro-choi", "casino-88aa"]
 tags: ["roulette-88aa", "choi-roulette", "huong-dan-roulette", "luat-choi-roulette", "casino-online", "chien-thuat-casino", "quan-ly-von"]
 tag_display: ["roulette 88aa", "chơi roulette", "hướng dẫn roulette", "luật chơi roulette", "casino online", "chiến thuật casino", "quản lý vốn"]
 image: "/images/casino_88aa_roulette.webp"
-description: "Hướng dẫn chi tiết dài hơn 2000 từ dành cho người mới bắt đầu chơi Roulette tại Casino 88AA. Phân tích toàn tập các loại cược trong, cược ngoài và cung cấp các chiến lược quản lý vốn an toàn, hiệu quả."
+description: "Hướng dẫn chi tiết dành cho người mới bắt đầu chơi Roulette tại Casino 88AA. Phân tích toàn tập các loại cược trong, cược ngoài và cung cấp các chiến lược quản lý vốn an toàn, hiệu quả."
 author: "Chuyên Gia 88AA"
 featured: false
 difficulty: "Cơ bản"

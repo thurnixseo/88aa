@@ -5,7 +5,7 @@ categories: ["tro-choi", "the-thao-88aa"]
 tags: ["cuoc-truc-tiep", "live-betting", "keo-rung-88aa", "doc-tran-dau", "kinh-nghiem-ca-cuoc", "chien-thuat-the-thao", "nha-cai-88aa"]
 tag_display: ["cược trực tiếp", "live betting", "kèo rung 88aa", "đọc trận đấu", "kinh nghiệm cá cược", "chiến thuật thể thao", "nhà cái 88aa"]
 image: "/images/the_thao_88aa_truc_tiep.webp"
-description: "Bài viết chuyên sâu dài hơn 2000 từ, hé lộ những bí mật và chiến thuật của Cược Trực Tiếp (Live Betting) tại 88AA. Hướng dẫn cách 'đọc vị' trận đấu và bắt kèo 'rung' hiệu quả như chuyên gia."
+description: "Bài viết hé lộ những bí mật và chiến thuật của Cược Trực Tiếp (Live Betting) tại 88AA. Hướng dẫn cách 'đọc vị' trận đấu và bắt kèo 'rung' hiệu quả như chuyên gia."
 author: "Chuyên Gia 88AA"
 featured: false
 difficulty: "Nâng cao"

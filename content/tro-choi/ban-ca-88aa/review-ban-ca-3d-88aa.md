@@ -5,7 +5,7 @@ categories: ["tro-choi", "ban-ca-88aa"]
 tags: ["review-ban-ca-88aa", "danh-gia-game-88aa", "ban-ca-3d", "jackpot-ban-ca", "do-hoa-game", "nha-cai-uy-tin", "casino-88aa"]
 tag_display: ["review bắn cá 88aa", "đánh giá game 88aa", "bắn cá 3d", "jackpot bắn cá", "đồ họa game", "nhà cái uy tín", "casino 88aa"]
 image: "/images/review-ban-ca-3d-88aa-featured.webp"
-description: "Bài đánh giá chi tiết dài hơn 2000 từ về siêu phẩm Bắn Cá 3D tại nhà cái 88AA. 'Mổ xẻ' toàn diện về đồ họa, gameplay, hệ thống jackpot và các tính năng ẩn đặc biệt."
+description: "Bài đánh giá về siêu phẩm Bắn Cá 3D tại nhà cái 88AA. 'Mổ xẻ' toàn diện về đồ họa, gameplay, hệ thống jackpot và các tính năng ẩn đặc biệt."
 author: "Chuyên Gia 88AA"
 featured: true
 difficulty: "Mọi cấp độ"

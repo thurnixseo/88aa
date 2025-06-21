@@ -5,7 +5,7 @@ categories: ["tro-choi", "the-thao-88aa"]
 tags: ["ca-cuoc-bong-ro", "keo-nba", "point-spread", "keo-chap-diem", "tai-xiu-bong-ro", "huong-dan-ca-cuoc", "nha-cai-88aa"]
 tag_display: ["cá cược bóng rổ", "kèo nba", "point spread", "kèo chấp điểm", "tài xỉu bóng rổ", "hướng dẫn cá cược", "nhà cái 88aa"]
 image: "/images/the_thao_88aa_bong_ro.webp"
-description: "Hướng dẫn chi tiết dài hơn 2000 từ dành cho người mới bắt đầu cá cược Bóng rổ NBA tại 88AA. Phân tích sâu và dễ hiểu về cách đọc Kèo Chấp Điểm (Point Spread) và Kèo Tài Xỉu Tổng Điểm."
+description: "Hướng dẫn chi tiết dành cho người mới bắt đầu cá cược Bóng rổ NBA tại 88AA. Phân tích sâu và dễ hiểu về cách đọc Kèo Chấp Điểm (Point Spread) và Kèo Tài Xỉu Tổng Điểm."
 author: "Chuyên Gia 88AA"
 featured: false
 difficulty: "Cơ bản"

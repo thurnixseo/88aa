@@ -5,7 +5,7 @@ categories: ["tro-choi", "game-bai-88aa"]
 tags: ["tien-len-mien-nam", "choi-phom", "mau-binh", "casino-truc-tuyen", "game-bai-doi-thuong", "huong-dan-game-bai"]
 tag_display: ["tiến lên miền nam", "chơi phỏm", "mậu binh", "casino trực tuyến", "game bài đổi thưởng", "hướng dẫn game bài"]
 image: "/images/the-gioi-game-bai-88aa-featured.webp"
-description: "Bài viết chuyên sâu dài hơn 2000 từ, phân tích toàn diện về sảnh Game Bài tại nhà cái 88AA. Hướng dẫn chi tiết luật chơi và chiến thuật nâng cao của Tiến Lên Miền Nam, Phỏm (Tá Lả), và Mậu Binh."
+description: "Phân tích toàn diện về sảnh Game Bài tại nhà cái 88AA. Hướng dẫn chi tiết luật chơi và chiến thuật nâng cao của Tiến Lên Miền Nam, Phỏm (Tá Lả), và Mậu Binh."
 author: "Chuyên Gia 88AA"
 featured: true
 difficulty: "Tất cả"

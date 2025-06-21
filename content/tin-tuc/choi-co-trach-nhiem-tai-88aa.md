@@ -5,7 +5,7 @@ categories: ["tin-tuc"]
 tags: ["choi-co-trach-nhiem", "an-toan-ca-cuoc", "kiem-soat-ban-than", "nha-cai-uy-tin", "ho-tro-88aa", "tam-ly-ca-cuoc"]
 tag_display: ["chơi có trách nhiệm", "an toàn cá cược", "kiểm soát bản thân", "nhà cái uy tín", "hỗ trợ 88aa", "tâm lý cá cược"]
 image: "/images/the_thao_88aa_ho_tro.webp"
-description: "Bài viết chuyên sâu dài hơn 2000 từ về Chơi Có Trách Nhiệm tại 88AA. Cung cấp 'Bộ Quy Tắc Vàng' về quản lý tài chính, kiểm soát thời gian, tâm lý và các công cụ hỗ trợ để giữ cá cược luôn là niềm vui."
+description: "Bài viết về Chơi Có Trách Nhiệm tại 88AA. Cung cấp 'Bộ Quy Tắc Vàng' về quản lý tài chính, kiểm soát thời gian, tâm lý và các công cụ hỗ trợ để giữ cá cược luôn là niềm vui."
 author: "Chuyên Gia 88AA"
 featured: false
 difficulty: "Mọi cấp độ"

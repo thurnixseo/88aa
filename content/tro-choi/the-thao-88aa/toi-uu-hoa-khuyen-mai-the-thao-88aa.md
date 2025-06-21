@@ -5,7 +5,7 @@ categories: ["tro-choi", "the-thao-88aa"]
 tags: ["khuyen-mai-the-thao", "bonus-88aa", "hoan-tra-the-thao", "tang-von-cuoc", "kinh-nghiem-ca-cuoc", "nha-cai-uy-tin"]
 tag_display: ["khuyến mãi thể thao", "bonus 88aa", "hoàn trả thể thao", "tăng vốn cược", "kinh nghiệm cá cược", "nhà cái uy tín"]
 image: "/images/the_thao_88aa_khuyen_mai.webp"
-description: "Bài viết chuyên sâu dài hơn 2000 từ, cung cấp bí quyết và chiến lược chi tiết để tận dụng tối đa các chương trình khuyến mãi thể thao tại 88AA, từ bonus nạp lại đến hoàn trả, giúp tăng vốn cược và tối đa hóa lợi nhuận."
+description: "Bài viết chuyên sâu này cung cấp bí quyết và chiến lược chi tiết để tận dụng tối đa các chương trình khuyến mãi thể thao tại 88AA, từ bonus nạp lại đến hoàn trả, giúp tăng vốn cược và tối đa hóa lợi nhuận."
 author: "Chuyên Gia 88AA"
 featured: false
 difficulty: "Nâng cao"

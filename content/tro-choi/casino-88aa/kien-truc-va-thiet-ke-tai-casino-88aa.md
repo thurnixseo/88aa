@@ -5,7 +5,7 @@ categories: ["tro-choi", "casino-88aa"]
 tags: ["thiet-ke-88aa", "casino-luxury", "kien-truc-casino", "trai-nghiem-nguoi-dung", "phong-cach-chau-a", "casino-hien-dai", "thiet-ke-website"]
 tag_display: ["thiết kế 88aa", "casino luxury", "kiến trúc casino", "trải nghiệm người dùng", "phong cách châu á", "casino hiện đại", "thiết kế website"]
 image: "/images/casino_88aa_design.webp"
-description: "Bài viết phân tích chuyên sâu dài hơn 2000 từ về triết lý kiến trúc và thiết kế tại Casino 88AA. Khám phá sự giao thoa tinh tế giữa nét cổ điển Á Đông và vẻ đẹp công nghệ hiện đại đã tạo nên một không gian giải trí đẳng cấp."
+description: "Triết lý kiến trúc và thiết kế tại Casino 88AA. Khám phá sự giao thoa tinh tế giữa nét cổ điển Á Đông và vẻ đẹp công nghệ hiện đại đã tạo nên một không gian giải trí đẳng cấp."
 author: "Chuyên Gia 88AA"
 featured: false
 difficulty: "Mọi cấp độ"

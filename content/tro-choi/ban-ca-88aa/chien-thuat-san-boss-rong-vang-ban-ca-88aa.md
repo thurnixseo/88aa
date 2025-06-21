@@ -5,7 +5,7 @@ categories: ["tro-choi", "ban-ca-88aa"]
 tags: ["san-boss-ban-ca", "rong-vang-88aa", "meo-choi-ban-ca", "chien-thuat-casino", "game-ban-ca-doi-thuong", "jackpot-ban-ca"]
 tag_display: ["săn boss bắn cá", "rồng vàng 88aa", "mẹo chơi bắn cá", "chiến thuật casino", "game bắn cá đổi thưởng", "jackpot bắn cá"]
 image: "/images/chien-thuat-san-boss-rong-vang-88aa-featured.webp"
-description: "Bài viết chuyên sâu dài hơn 2000 từ, cung cấp chiến thuật toàn diện để săn Boss Rồng Vàng trong game Bắn Cá 88AA. Hướng dẫn chi tiết cách chuẩn bị, tối ưu vũ khí, đạn dược và chớp lấy thời điểm vàng."
+description: "Bài viết sẽ cung cấp chiến thuật toàn diện để săn Boss Rồng Vàng trong game Bắn Cá 88AA. Hướng dẫn chi tiết cách chuẩn bị, tối ưu vũ khí, đạn dược và chớp lấy thời điểm vàng."
 author: "Chuyên Gia 88AA"
 featured: false
 difficulty: "Nâng cao"

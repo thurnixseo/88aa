@@ -5,7 +5,7 @@ categories: ["tro-choi", "casino-88aa"]
 tags: ["baccarat-88aa", "choi-baccarat", "huong-dan-baccarat", "soi-cau-baccarat", "live-casino-88aa", "casino-uy-tin", "chien-thuat-baccarat"]
 tag_display: ["baccarat 88aa", "chơi baccarat", "hướng dẫn baccarat", "soi cầu baccarat", "live casino 88aa", "casino uy tín", "chiến thuật baccarat"]
 image: "/images/casino_88aa_baccarat.webp"
-description: "Bài viết chuyên sâu dài hơn 2000 từ, là cẩm nang toàn tập giúp bạn làm chủ game Baccarat tại 88AA. Hướng dẫn chi tiết luật chơi, quy tắc rút lá bài thứ ba, và đặc biệt là các chiến thuật soi cầu bất bại từ chuyên gia."
+description: "Cẩm nang toàn tập giúp bạn làm chủ game Baccarat tại 88AA. Hướng dẫn chi tiết luật chơi, quy tắc rút lá bài thứ ba, và đặc biệt là các chiến thuật soi cầu bất bại từ chuyên gia."
 author: "Chuyên Gia 88AA"
 featured: false
 difficulty: "Từ cơ bản đến nâng cao"

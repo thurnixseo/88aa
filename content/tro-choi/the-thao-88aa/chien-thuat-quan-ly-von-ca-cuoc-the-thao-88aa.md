@@ -5,7 +5,7 @@ categories: ["tro-choi", "the-thao-88aa"]
 tags: ["quan-ly-von", "chien-thuat-ca-cuoc", "quan-ly-rui-ro", "ca-cuoc-thong-minh", "kinh-nghiem-ca-cuoc", "nha-cai-88aa"]
 tag_display: ["quản lý vốn", "chiến thuật cá cược", "quản lý rủi ro", "cá cược thông minh", "kinh nghiệm cá cược", "nhà cái 88aa"]
 image: "/images/the_thao_88aa_dat_cuoc.webp"
-description: "Bài viết chuyên sâu dài hơn 2000 từ, cung cấp chiến thuật quản lý vốn toàn diện khi chơi cá cược thể thao tại 88AA. Khám phá bí quyết xác định ngân sách, hệ thống 'đơn vị cược' và các mô hình đặt cược chuyên nghiệp."
+description: "Bài viết cung cấp chiến thuật quản lý vốn toàn diện khi chơi cá cược thể thao tại 88AA. Khám phá bí quyết xác định ngân sách, hệ thống 'đơn vị cược' và các mô hình đặt cược chuyên nghiệp."
 author: "Chuyên Gia 88AA"
 featured: false
 difficulty: "Nâng cao"

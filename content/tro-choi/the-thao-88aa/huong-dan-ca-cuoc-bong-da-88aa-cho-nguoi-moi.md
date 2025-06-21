@@ -5,7 +5,7 @@ categories: ["tro-choi", "the-thao-88aa"]
 tags: ["ca-cuoc-bong-da", "keo-chau-a", "keo-tai-xiu", "huong-dan-ca-cuoc", "doc-keo-88aa", "tan-thu-ca-cuoc"]
 tag_display: ["cá cược bóng đá", "kèo châu á", "kèo tài xỉu", "hướng dẫn cá cược", "đọc kèo 88aa", "tân thủ cá cược"]
 image: "/images/the_thao_88aa_bong_da.webp"
-description: "Bài viết chi tiết nhất dài hơn 2000 từ, hướng dẫn người mới bắt đầu cách đọc và hiểu 3 loại kèo cá cược bóng đá phổ biến nhất tại 88AA: Kèo Châu Á (Handicap), Kèo Tài Xỉu (O/U) và Kèo Châu Âu (1X2)."
+description: "Hướng dẫn người mới bắt đầu cách đọc và hiểu 3 loại kèo cá cược bóng đá phổ biến nhất tại 88AA: Kèo Châu Á (Handicap), Kèo Tài Xỉu (O/U) và Kèo Châu Âu (1X2)."
 author: "Chuyên Gia 88AA"
 featured: false
 difficulty: "Cơ bản"

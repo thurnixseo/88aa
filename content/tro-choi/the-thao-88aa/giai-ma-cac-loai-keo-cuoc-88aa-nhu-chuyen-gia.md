@@ -5,7 +5,7 @@ categories: ["tro-choi", "the-thao-88aa"]
 tags: ["doc-keo-88aa", "keo-phat-goc", "keo-the-phat", "cuoc-xien-88aa", "kinh-nghiem-ca-cuoc", "huong-dan-nang-cao"]
 tag_display: ["đọc kèo 88aa", "kèo phạt góc", "kèo thẻ phạt", "cược xiên 88aa", "kinh nghiệm cá cược", "hướng dẫn nâng cao"]
 image: "/images/the_thao_88aa_ty_so.webp"
-description: "Bài viết chuyên sâu dài hơn 2000 từ, hướng dẫn đọc kèo như một chuyên gia tại 88AA. Phân tích chi tiết các loại kèo phụ hấp dẫn như Kèo Phạt Góc, Kèo Thẻ Phạt, Tỷ Số Chính Xác và Cược Xiên."
+description: "Hướng dẫn đọc kèo như một chuyên gia tại 88AA. Phân tích chi tiết các loại kèo phụ hấp dẫn như Kèo Phạt Góc, Kèo Thẻ Phạt, Tỷ Số Chính Xác và Cược Xiên."
 author: "Chuyên Gia 88AA"
 featured: true
 difficulty: "Nâng cao"
