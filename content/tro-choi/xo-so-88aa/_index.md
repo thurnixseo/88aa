@@ -1,10 +1,10 @@
 ---
-title: "Xổ Số 88AA"
-description: "Tổng hợp các bài viết về Xổ Số 88AA"
+title: "Xổ Số Thabet88"
+description: "Tổng hợp các bài viết về Xổ Số Thabet88"
 icon: "🎲"
 type: "section"
 layout: "section"
-url: "/xo-so-88aa/"
+url: "/xo-so-thabet88/"
 ---
 
-Tổng hợp các bài viết về Xổ Số 88AA
+Tổng hợp các bài viết về Xổ Số Thabet88

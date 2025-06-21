@@ -1,10 +1,10 @@
 ---
-title: "Thể Thao 88AA"
-description: "Tổng hợp các bài viết về Thể thao 88AA"
+title: "Thể Thao Thabet88"
+description: "Tổng hợp các bài viết về Thể thao Thabet88"
 icon: "⚽"
 type: "section"
 layout: "section"
-url: "/the-thao-88aa/"
+url: "/the-thao-thabet88/"
 ---
 
-Tổng hợp các bài viết về Thể thao 88AA
+Tổng hợp các bài viết về Thể thao Thabet88.

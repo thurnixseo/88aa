@@ -8,7 +8,7 @@
         <div class="flex justify-between items-center">
             <div class="flex items-center flex-shrink-0">
                 <a href="/" class="hover:opacity-80 transition-opacity">
-                    <img src="/images/88aa.webp" alt="88AA" class="h-10 w-auto">
+                    <img src="/images/thabet.webp" alt="thabet" class="h-10 w-auto">
                 </a>
             </div>
 
@@ -24,7 +24,7 @@
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
                                 </svg>
                             </a>
-                            <div class="absolute top-full left-0 mt-1 w-48 bg-gray-800 rounded-lg shadow-2xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transform scale-95 group-hover:scale-100 transition-all duration-200 z-[99] border border-gray-700">
+                            <div class="absolute top-full left-0 mt-1 w-64 bg-gray-800 rounded-lg shadow-2xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transform scale-95 group-hover:scale-100 transition-all duration-200 z-[99] border border-gray-700">
                                 <div class="py-2">
                                     {{ range .Children }}
                                         <a href="{{ .URL }}" class="block px-4 py-2 text-sm text-gray-300 hover:text-white hover:bg-gray-700 transition-colors uppercase tracking-wide">
@@ -58,8 +58,8 @@
                 {{ if and .Site.Params.auth (ne .Site.Params.auth.showButtons false) }}
                     {{ $loginText := "ĐĂNG NHẬP" }}
                     {{ $registerText := "ĐĂNG KÝ" }}
-                    {{ $loginUrl := "/dang-nhap-88aa/" }}
-                    {{ $registerUrl := "/dang-ky-88aa/" }}
+                    {{ $loginUrl := "/dang-nhap-thabet/" }}
+                    {{ $registerUrl := "/dang-ky-thabet/" }}
                     
                     {{ with .Site.Params.auth.loginText }}{{ $loginText = . }}{{ end }}
                     {{ with .Site.Params.auth.registerText }}{{ $registerText = . }}{{ end }}
@@ -76,11 +76,11 @@
                         {{ $registerText }}
                     </a>
                 {{ else }}
-                    <a href="/dang-nhap-88aa/" 
+                    <a href="/dang-nhap-thabet/" 
                        class="bg-game-primary hover:bg-orange-600 text-white px-2 sm:px-4 py-1.5 sm:py-2 rounded-lg transition-colors font-medium text-xs sm:text-sm uppercase tracking-wide">
                         ĐĂNG NHẬP
                     </a>
-                    <a href="/dang-ky-88aa/" 
+                    <a href="/dang-ky-thabet/" 
                        class="bg-game-primary hover:bg-orange-600 text-white px-2 sm:px-4 py-1.5 sm:py-2 rounded-lg transition-colors font-medium text-xs sm:text-sm uppercase tracking-wide">
                         ĐĂNG KÝ
                     </a>

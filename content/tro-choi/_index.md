@@ -1,9 +1,9 @@
 ---
-title: "Trò chơi tại 88AA"
-description: "Tổng hợp các trò chơi tại 88AA"
+title: "Trò chơi tại Thabet88"
+description: "Tổng hợp các trò chơi tại Thabet88"
 icon: "🎮"
 type: "section"
 layout: "section"
 ---
 
-Tổng hợp các trò chơi hay, hấp dẫn tại 88AA
+Tổng hợp các trò chơi hay, hấp dẫn tại Thabet88

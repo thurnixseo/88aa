@@ -1,10 +1,10 @@
 ---
-title: "Game Bài 88AA"
-description: "Tổng hợp các bài viết về Game Bài 88AA"
+title: "Game Bài Thabet88"
+description: "Tổng hợp các bài viết về Game Bài Thabet88"
 icon: "🃏"
 type: "section"
 layout: "section"
-url: "/game-bai-88aa/"
+url: "/game-bai-thabet88/"
 ---
 
-Tổng hợp các bài viết về Game Bài 88AA
+Tổng hợp các bài viết về Game Bài Thabet88

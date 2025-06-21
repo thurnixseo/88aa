@@ -1,6 +1,6 @@
-baseURL = 'https://88aa.com.co'  # Thay bằng domain thật của bạn
+baseURL = 'https://thabet88.space'  # Thay bằng domain thật của bạn
 languageCode = 'vi'
-title = 'Cổng game 88AA'
+title = 'Thabet88'
 defaultContentLanguage = 'vi'
 
 [build]
@@ -9,9 +9,9 @@ defaultContentLanguage = 'vi'
 [params.auth]
   showButtons = true          # Hiện/ẩn buttons
   loginText = "ĐĂNG NHẬP"     # Text button đăng nhập  
-  loginUrl = "/dang-nhap-88aa/" # Link đăng nhập
+  loginUrl = "/dang-nhap-thabet/" # Link đăng nhập
   registerText = "ĐĂNG KÝ"    # Text button đăng ký
-  registerUrl = "/dang-ky-88aa/" # Link đăng ký
+  registerUrl = "/dang-ky-thabet/" # Link đăng ký
   loginStyle = "default"      # "default", "outline", "ghost"
   registerStyle = "default"   # "default", "outline", "ghost"
   buttonSize = "md"          # "sm", "md", "lg"
@@ -36,20 +36,20 @@ defaultContentLanguage = 'vi'
 # Category Pages Configuration
 [params.categories]
   [params.categories.tin_tuc]
-    title = "Tin Tức 88AA"
+    title = "Tin Tức Thabet"
     description = "Cập nhật tin tức mới nhất về game, sự kiện và khuyến mãi"
     icon = "📰"
     color = "bg-blue-600"
     
   [params.categories.huong_dan]
-    title = "Hướng Dẫn"
+    title = "Hướng Dẫn Thabet88"
     description = "Hướng dẫn chi tiết cách chơi game và sử dụng dịch vụ"
     icon = "📖"
     color = "bg-green-600"
     
   [params.categories.tro_choi]
     title = "Trò Chơi"
-    description = "Khám phá các trò chơi hấp dẫn tại 88AA"
+    description = "Khám phá các trò chơi hấp dẫn tại thabet"
     icon = "🎮"
     color = "bg-purple-600"
     
@@ -61,15 +61,15 @@ defaultContentLanguage = 'vi'
 
 [params]
   description = 'Cổng game giải trí hàng đầu Việt Nam. Khám phá hàng nghìn trò chơi thú vị và kết nối với cộng đồng game thủ.'
-  author = 'Cổng game 88AA'
-  logo = '/images/88aa.webp'
-  favicon = '/images/88aa-favicon.png'
-  ogImage = '/images/88aa-og.webp'
+  author = 'Cổng game thabet'
+  logo = '/images/thabet.webp'
+  favicon = '/images/thabet-favicon.png'
+  ogImage = '/images/thabet-og.webp'
   
   # Social Media
-  facebook = 'https://facebook.com/88aa'
-  twitter = 'https://twitter.com/88aa'
-  youtube = 'https://youtube.com/@88aa'
+  facebook = 'https://facebook.com/thabet88space'
+  twitter = 'https://twitter.com/thabet88space'
+  youtube = 'https://youtube.com/@thabet88space'
   
   # Gaming specific
   totalGames = '1000+'
@@ -83,62 +83,13 @@ defaultContentLanguage = 'vi'
 
 # Menu Configuration
 [[menu.main]]
-  name = "TRANG CHỦ 88AA"
-  url = "https://88aa.com.co"
+  name = "TRANG CHỦ THABET88"
+  url = "https://thabet88.space"
   weight = 10
   pre = "🏠"
 
 [[menu.main]]
-  name = "HƯỚNG DẪN"
-  url = "/huong-dan/"
-  weight = 20
-  pre = "📖"
-  identifier = "huong-dan"
-
-  [[menu.main]]
-    parent = "huong-dan"
-    name = "ĐĂNG KÝ 88AA"
-    url = "/dang-ky-88aa/"
-    weight = 21
-    pre = "📝"
-
-  [[menu.main]]
-    parent = "huong-dan"
-    name = "ĐĂNG NHẬP 88AA"
-    url = "/dang-nhap-88aa/"
-    weight = 22
-    pre = "🔑"
-
-  [[menu.main]]
-    parent = "huong-dan"
-    name = "NẠP TIỀN 88AA"
-    url = "/nap-tien-88aa/"
-    weight = 23
-    pre = "💰"
-
-  [[menu.main]]
-    parent = "huong-dan"
-    name = "RÚT TIỀN 88AA"
-    url = "/rut-tien-88aa/"
-    weight = 24
-    pre = "💸"
-
-  [[menu.main]]
-    parent = "huong-dan"
-    name = "TẢI APP 88AA"
-    url = "/tai-app-88aa/"
-    weight = 25
-    pre = "📱"
-
-  [[menu.main]]
-    parent = "huong-dan"
-    name = "LINK VÀO 88AA"
-    url = "/link-vao-88aa/"
-    weight = 26
-    pre = "🔗"
-
-[[menu.main]]
-  name = "TRÒ CHƠI 88AA"
+  name = "TRÒ CHƠI THABET88"
   url = "#"
   weight = 30
   pre = "🎮"
@@ -146,43 +97,43 @@ defaultContentLanguage = 'vi'
 
   [[menu.main]]
     parent = "tro-choi"
-    name = "XỔ SỐ 88AA"
-    url = "/xo-so-88aa/"
+    name = "XỔ SỐ THABET88"
+    url = "/xo-so-thabet88/"
     weight = 31
     pre = "🎲"
 
   [[menu.main]]
     parent = "tro-choi"
-    name = "BẮN CÁ 88AA"
-    url = "/ban-ca-88aa/"
+    name = "BẮN CÁ THABET"
+    url = "/ban-ca-thabet88/"
     weight = 32
     pre = "🐟"
 
   [[menu.main]]
     parent = "tro-choi"
-    name = "THỂ THAO 88AA"
-    url = "/the-thao-88aa/"
+    name = "THỂ THAO THABET88"
+    url = "/the-thao-thabet88/"
     weight = 33
     pre = "⚽"
 
   [[menu.main]]
     parent = "tro-choi"
-    name = "CASINO 88AA"
-    url = "/casino-88aa/"
+    name = "CASINO THABET88"
+    url = "/casino-thabet88/"
     weight = 34
     pre = "🎰"
 
   [[menu.main]]
     parent = "tro-choi"
-    name = "GAME BÀI 88AA"
-    url = "/game-bai-88aa/"
+    name = "GAME BÀI THABET88"
+    url = "/game-bai-thabet88/"
     weight = 35
     pre = "🃏"
 
   [[menu.main]]
     parent = "tro-choi"
-    name = "NỔ HŨ 88AA"
-    url = "/no-hu-88aa/"
+    name = "NỔ HŨ THABET88"
+    url = "/no-hu-thabet88/"
     weight = 36
     pre = "💥"
 

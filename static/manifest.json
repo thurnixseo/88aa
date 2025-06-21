@@ -1,7 +1,7 @@
 {
-    "name": "Cổng game 88AA",
-    "short_name": "88AA",
-    "description": "Cổng game giải trí hàng đầu Việt Nam",
+    "name": "Cổng Game Thabet",
+    "short_name": "Thabet",
+    "description": "Cổng Game Thabet - Thabet88 - Đỉnh Cao Giải Trí Tại Việt Nam",
     "start_url": "/",
     "display": "standalone",
     "background_color": "#004E89",
@@ -9,12 +9,12 @@
     "orientation": "portrait-primary",
     "icons": [
         {
-            "src": "/images/88aa-favicon.png",
+            "src": "/images/thabet-favicon.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/images/88aa-favicon.png",
+            "src": "/images/thabet-favicon.png",
             "sizes": "512x512",
             "type": "image/png"
         }

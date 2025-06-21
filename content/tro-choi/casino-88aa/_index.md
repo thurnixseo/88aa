@@ -1,10 +1,10 @@
 ---
-title: "Casino 88AA"
-description: "Tổng hợp các bài viết về Casino 88AA"
+title: "Casino Thabet88"
+description: "Tổng hợp các bài viết về Casino Thabet88"
 icon: "🎰"
 type: "section"
 layout: "section"
-url: "/casino-88aa/"
+url: "/casino-thabet88/"
 ---
 
-Tổng hợp các bài viết về Casino 88AA
+Tổng hợp các bài viết về Casino Thabet88
